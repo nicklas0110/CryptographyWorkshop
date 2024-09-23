@@ -1,0 +1,14 @@
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/bin/Debug/net8.0/Exercise1
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/bin/Debug/net8.0/Exercise1.deps.json
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/bin/Debug/net8.0/Exercise1.runtimeconfig.json
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/bin/Debug/net8.0/Exercise1.dll
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/bin/Debug/net8.0/Exercise1.pdb
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/obj/Debug/net8.0/Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/obj/Debug/net8.0/Exercise1.AssemblyInfoInputs.cache
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/obj/Debug/net8.0/Exercise1.AssemblyInfo.cs
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/obj/Debug/net8.0/Exercise1.csproj.CoreCompileInputs.cache
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/obj/Debug/net8.0/Exercise1.dll
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/obj/Debug/net8.0/refint/Exercise1.dll
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/obj/Debug/net8.0/Exercise1.pdb
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/obj/Debug/net8.0/Exercise1.genruntimeconfig.cache
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/Exercise1/obj/Debug/net8.0/ref/Exercise1.dll

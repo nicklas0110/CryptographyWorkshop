@@ -1,0 +1,28 @@
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/bin/Debug/net8.0/CryptographyWorkshop
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/bin/Debug/net8.0/CryptographyWorkshop.deps.json
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/bin/Debug/net8.0/CryptographyWorkshop.runtimeconfig.json
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/bin/Debug/net8.0/CryptographyWorkshop.dll
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/bin/Debug/net8.0/CryptographyWorkshop.pdb
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.AssemblyInfoInputs.cache
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.AssemblyInfo.cs
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.csproj.CoreCompileInputs.cache
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.dll
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/obj/Debug/net8.0/refint/CryptographyWorkshop.dll
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.pdb
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.genruntimeconfig.cache
+/Users/nick0110/Documents/GitHub/Cryptography Workshop/CryptographyWorkshop/obj/Debug/net8.0/ref/CryptographyWorkshop.dll
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/bin/Debug/net8.0/CryptographyWorkshop
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/bin/Debug/net8.0/CryptographyWorkshop.deps.json
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/bin/Debug/net8.0/CryptographyWorkshop.runtimeconfig.json
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/bin/Debug/net8.0/CryptographyWorkshop.dll
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/bin/Debug/net8.0/CryptographyWorkshop.pdb
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.AssemblyInfoInputs.cache
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.AssemblyInfo.cs
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.csproj.CoreCompileInputs.cache
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.dll
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/obj/Debug/net8.0/refint/CryptographyWorkshop.dll
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.pdb
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/obj/Debug/net8.0/CryptographyWorkshop.genruntimeconfig.cache
+/Users/nick0110/Documents/GitHub/CryptographyWorkshop/CryptographyWorkshop/obj/Debug/net8.0/ref/CryptographyWorkshop.dll
